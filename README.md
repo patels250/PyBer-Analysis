@@ -10,7 +10,7 @@ We have been tasked with using the Pandas and Matplotlib libraries to perform an
 
 As seen above, there are some stark differences between the three city types. Urban cities have by far the highest total rides, drivers, and fares. Meanwhile, rural areas have the highest average fare per ride and average fare per driver. This is intuitive because there are fewer drivers in rural areas so they likely charge much more. Rides in rural areas are also probably longer on average.
 
-![PyBer_fare_summary.PNG](analysis/PyBer_fare_summary.PNG)
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 This line graph shows the total fares for each city type for every week in January through April.
 
