@@ -12,7 +12,8 @@ As seen above, there are some stark differences between the three city types. Ur
 
 ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
-This line graph shows the total fares for each city type for every week in January through April.
+This line graph shows the total fares for each city type for every week in January through April. Urban cities clearly bring in the most money, followed by suburban cities and then rural areas.
 
 ## Summary
 
+One suggestion for addressing disparities between the city types would be to lower the average fares for rural areas in order to get more people using the service. Another suggestion would be to place/hire more drivers in rural areas as that could also drive the price down. But perhaps the most important suggestion would be to focus on the service in urban cities because that is where over 60% of fares are collected and by far the most rides are taken in urban cities. 
