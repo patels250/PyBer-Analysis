@@ -6,7 +6,7 @@ We have been tasked with using the Pandas and Matplotlib libraries to perform an
 
 ## Results
 
-
+![Summary.PNG](analysis/Summary.PNG)
 
 ## Summary
 
